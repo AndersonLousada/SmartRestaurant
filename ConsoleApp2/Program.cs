@@ -105,7 +105,7 @@ namespace ConsoleApp2
             }
             Console.WriteLine("Valor do pedido: R$" + valorPrato.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Total " + valorTotal.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Muito obrigado, ficamos muito felizes em servir.");
+            Console.WriteLine("Muito obrigado.");
         }
     }
 }
